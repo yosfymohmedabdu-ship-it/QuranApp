@@ -29,3 +29,9 @@ button:hover {
   --background: #f5f5f5;
   --text: #000000;
 }
+{
+  "primary": "#006400",
+  "secondary": "#228B22",
+  "background": "#f5f5f5",
+  "text": "#000000"
+}
