@@ -89,3 +89,6 @@ function showSurah(surahName) {
   alert("تم اختيار سورة " + surahName);
 }
 </script>
+<button onclick="showSurah('الفاتحة')">الفاتحة</button>
+<button onclick="showSurah('البقرة')">البقرة</button>
+<button onclick="showSurah('عمران')">آل عمران</button>
