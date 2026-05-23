@@ -64,3 +64,23 @@ index.html
     <li>النساء</li>
   </ul>
 </div>
+.menu {
+  margin-top: 20px;
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-radius: 10px;
+}
+.menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+.menu li {
+  background-color: #006400;
+  color: white;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 6px;
+}
+.menu li:hover {
+  background-color: #228B22;
+}
