@@ -84,3 +84,8 @@ index.html
 .menu li:hover {
   background-color: #228B22;
 }
+<script>
+function showSurah(surahName) {
+  alert("تم اختيار سورة " + surahName);
+}
+</script>
