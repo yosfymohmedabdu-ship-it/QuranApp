@@ -8,3 +8,4 @@ body {
   font-size: 18px;
   color: #006400; /* الأخضر الداكن */
 }
+buttons.css
