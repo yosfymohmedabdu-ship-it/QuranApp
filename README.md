@@ -55,3 +55,12 @@ button:hover {
 </body>
 </html>
 index.html
+<div class="menu">
+  <h2>اختر السورة التي تريد قراءتها:</h2>
+  <ul>
+    <li>الفاتحة</li>
+    <li>البقرة</li>
+    <li>آل عمران</li>
+    <li>النساء</li>
+  </ul>
+</div>
